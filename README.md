@@ -91,7 +91,7 @@ AI Orchestration Layer
 LLM + Embeddings + Vector Search
 ```
 
-Full architecture: `docs/architecture.md`
+Full architecture: [`docs/architecture.md`](docs/architecture.md)
 
 ---
 
@@ -106,7 +106,7 @@ ARIA uses task-specific prompt structures tailored for:
 
 Each prompt is designed for consistency, control, and measurable output quality.
 
-See simplified examples: `docs/prompts.md`
+See simplified examples [`docs/prompts.md`](docs/prompts.md)
 
 ---
 
@@ -121,7 +121,7 @@ Key metrics include:
 * Structural correctness of outputs
 * Faithfulness of generated summaries
 
-Overview: `docs/evaluation.md`
+Overview: [`docs/evaluation.md`](docs/evaluation.md)
 
 ---
 
@@ -146,7 +146,7 @@ ARIA is designed to plug into existing e-commerce systems:
 
 Supports custom catalogues and brand-specific configuration.
 
-More details: `docs/features.md`
+More details: [`docs/features.md`](docs/features.md)
 
 ---
 
